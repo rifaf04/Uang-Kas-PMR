@@ -1,0 +1,14 @@
+CardView
+https://developer.android.com/training/material/lists-cards.html?hl=id
+
+RippleEffect
+https://github.com/patrickpissurno/RippleEffect/
+
+ShadowLayout
+https://github.com/dmytrodanylyk/shadow-layout
+
+MaterialColor
+https://material.io/guidelines/style/color.html#color-color-palette
+
+IconGenerator
+https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html

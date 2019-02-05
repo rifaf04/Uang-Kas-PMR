@@ -1,0 +1,3 @@
+Catatan: apliksi ini masih bersifat local host dan masih bersifa debug, 
+serta kalau mau menggunakan aplikasi ini tinggal ganti alamat ip local host yang ada di gambar 
+u3 lalu run dan catatan lagi harus terkoneksi internet baik di adroid studio, emulator atau hpnya serta mysql harus aktif
